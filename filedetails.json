@@ -54,17 +54,7 @@ jMLMepZ4q20cROqnnFbxavGE6jCDJLwEHRSlXDO/F21MShPQWf/VmgOqhPnio2ZG
 3UG4fm+fNKFRG9RAmdy/WwNPHg==
 -----END CERTIFICATE-----
 </ca>
-
-
-###############################################################################
-# Client certificate and key.
-# 
-# A pair of client certificate and private key is required in case you want to
-# use the certificate authentication.
-# 
-# To enable it, uncomment the lines below.
-# Paste your certificate in the <cert> block and the key in the <key> one.
-
+    
 <cert>
 -----BEGIN CERTIFICATE-----
 MIIDYTCCAkmgAwIBAgIQSusS/6YtVmCREE5VWdeJ/DANBgkqhkiG9w0BAQsFADAS
