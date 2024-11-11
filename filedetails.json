@@ -5,7 +5,7 @@ dev tun
           
 proto udp
 
-remote 89.116.25.39 443
+remote 89.116.25.39 44
 
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
