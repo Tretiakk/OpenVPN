@@ -1,7 +1,7 @@
 {
     "ovpn_file":[
-      {"id":0,"file":
-      "dev tun
+      {"id":0,"file":"  
+dev tun
 
 proto udp
 
@@ -110,5 +110,5 @@ Ws3LlNQ+qilVrwtR5G/zXlijd/ZndY5OctWIcJiqdm4yzdaug3gWqvi2MnRoE1dd
 8VYBcDkELlHwPhBSAqJCgyI=
 -----END PRIVATE KEY-----
 </key>"},
-    {"id":1,"file":""}]
-    }
+    ]   
+}
