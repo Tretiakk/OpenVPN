@@ -26,12 +26,6 @@ pull-filter ignore "route"
 pull-filter ignore "dhcp-option"
 verify-x509-name "elma.ir" name
 
-auth-user-pass
-<auth-user-pass>
-test
-123456
-</auth-user-pass>
-
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIDPzCCAiegAwIBAgIUVlwcS4W7KtBgipzmfAhoFbqhgZEwDQYJKoZIhvcNAQEL
@@ -54,7 +48,7 @@ jMLMepZ4q20cROqnnFbxavGE6jCDJLwEHRSlXDO/F21MShPQWf/VmgOqhPnio2ZG
 3UG4fm+fNKFRG9RAmdy/WwNPHg==
 -----END CERTIFICATE-----
 </ca>
-    
+
 <cert>
 -----BEGIN CERTIFICATE-----
 MIIDYTCCAkmgAwIBAgIQSusS/6YtVmCREE5VWdeJ/DANBgkqhkiG9w0BAQsFADAS
