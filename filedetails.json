@@ -20,8 +20,6 @@ persist-tun
 client
 verb 3
 
-data-ciphers AES-256-GCM:AES-128-GCM:CHACHA20-POLY1305:AES-128-CBC
-
 auth-user-pass
 <auth-user-pass>
 test
